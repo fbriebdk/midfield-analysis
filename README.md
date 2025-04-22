@@ -34,10 +34,10 @@ This project compares five elite Premier League midfielders using real match dat
 ## 📈 Visuals
 
 ### Creative Metrics Radar  
-![Creative Radar](visuals/creative_radar.png)
+<img src="visuals/attacking_radar.png" width="600"/>
 
 ### Defensive Metrics Radar  
-![Defensive Radar](visuals/defensive_radar.png)
+<img src="visuals/defensive_radar.png" width="600"/>
 
 ---
 
@@ -62,9 +62,11 @@ This project compares five elite Premier League midfielders using real match dat
 
 ## 📂 Folder Structure
 
-midfield-analysis/ ├── data/ # Raw data files (player_stats.csv) ├── notebooks/ # Jupyter notebooks (visualizations, analysis) ├── visuals/ # Exported radar charts └── README.md 
-
-# Project summary
+midfield-analysis/
+├── data/          # Raw data files (player_stats.csv)
+├── notebooks/     # Jupyter notebooks (visualizations, analysis)
+├── visuals/       # Exported radar charts
+└── README.md      # Project summary
 
 ---
 
@@ -73,4 +75,3 @@ midfield-analysis/ ├── data/ # Raw data files (player_stats.csv) ├──
 - Add interactive dashboards (Plotly, Streamlit)
 - Expand player pool and include more roles
 - Explore match-by-match trends
-
