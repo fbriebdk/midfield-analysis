@@ -28,6 +28,12 @@ The map is split into four areas using average values on both axes:
 
 ---
 
+## 📈 Visuals
+
+<img src="visuals/quadrant_map.png" width="600"/>
+
+---
+
 ## ⚽ 35 Midfielders Used in this example
 
 "Declan Rice", "Rodri", "Kevin De Bruyne", "Bruno Fernandes",
@@ -67,10 +73,6 @@ midfielder_style_map/
 | └── premier_league_per90_2023_2024.csv # Original dataset with over 500 rows including standard_stats of EPL midfielders
 | └── standard_stats_selected_players.csv # Derived dataset from the original dataset filtered for those 35 midfielders
 └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
